@@ -45,14 +45,6 @@ HTML5	Estrutura do projeto
 CSS3	Estilização, responsividade e customização dos componentes
 JavaScript (Vanilla JS)	Lógica de geração, eventos, cópia e cálculos de força
 Google Fonts	Tipografia personalizada (Inter e Inconsolata)
-📂 Estrutura de Pastas
-/
-│── index.html
-│── style.css
-│── reset.css
-│── copy.svg
-│── renew.svg
-│── README.md
 
 ▶️ Como Executar o Projeto
 
@@ -121,3 +113,4 @@ Sugestões e melhorias são sempre bem-vindas! 🚀
 
 Este projeto está sob a licença MIT.
 Uso livre para estudos e projetos pessoais.
+
