@@ -5,7 +5,7 @@ Projetado para ser simples, responsivo e eficiente, permitindo ao usuário criar
 
 🚀 Demonstração
 
-🔗 GitHub Pages
+🔗 GitHub Pages -->  https://mauriciogonzalezdev.github.io/GERADOR-DE-SENHA-JAVASCRIPT/
 
 ✨ Funcionalidades
 
@@ -113,4 +113,5 @@ Sugestões e melhorias são sempre bem-vindas! 🚀
 
 Este projeto está sob a licença MIT.
 Uso livre para estudos e projetos pessoais.
+
 
